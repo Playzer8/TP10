@@ -98,19 +98,9 @@ html
                 0 -1px 0 rgba(0, 0, 0, .4);
 }
 
-#nomRubrique
-{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-#nomRubrique > h2
+#nomRubrique > h3
 {
     animation: epilep 1s infinite;
-    font-weight: normal;
-    padding: 10px 80px 9px 80px;
-    border-bottom: 1px solid;
 }
 
 @keyframes epilep{
@@ -125,62 +115,4 @@ html
     80%{color: orange;}
     90%{color: grey;}
     100%{color: black;}
-}
-
-#banniere > img
-{
-    display: flex;
-    flex-direction: row;
-    margin-right: 10%;
-    margin-left: 12%;
-    height: 300px;
-    width: 1200px; 
-}
-
-#presentation
-{
-    margin-left: 190px;
-}
-
-#presentation > h3
-{
-    animation: epilep 1s infinite;
-    font-weight: normal;
-}
-
-#presentation > p
-{
-    animation: epilepfond 2s infinite;
-    color:white;
-}
-
-#valeur
-{
-    margin-left: 190px;
-}
-
-#valeur > h3
-{
-    animation: epilep 1s infinite;
-    font-weight: normal;
-}
-
-#valeur > p
-{
-    animation: epilepfond 2s infinite;
-    color:white;
-}
-
-@keyframes epilepfond{
-    0%{background-color: rgba(255, 0, 0, 0.2);}
-    10%{background-color: rgba(255,192,203, 0.2);}
-    20%{background-color: rgba(128,0,128, 0.2);}
-    30%{background-color: rgba(0, 0, 255, 0.2);}
-    40%{background-color: rgba(0, 255, 255, 0.2);}
-    50%{background-color: rgba(0, 255, 0, 0.2);}
-    60%{background-color: rgba(64,224,208, 0.2);}
-    70%{background-color: rgba(255, 255, 0, 0.2);}
-    80%{background-color: rgba(255,165,0, 0.2);}
-    90%{background-color: rgba(192, 192, 192, 0.2);}
-    100%{background-color: rgba(0, 0, 0, 0.2);}
 }

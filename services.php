@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 	<head>
-	<link rel="stylesheet" type="text/css" href="CSS/accueilCSS.css" media="all" />
+	<link rel="stylesheet" type="text/css" href="CSS/servicesCSS.css" media="all" />
     <meta charset="utf-8" />
     <title>TP10</title>
 	</head>
@@ -11,5 +11,7 @@
 			<li><a href="services.php"> Services </a></li>
 			<li><a href="contact.php"> Contact </a></li>
 		</ul>
-		<p>Services</p>
+		<div id="nomRubrique">
+			<h3>Services</h3>
+		</div>
 </html>
