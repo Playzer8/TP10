@@ -9,9 +9,9 @@
 	<div id="main">
 		<ul id="navigation">
 			<li><a href="accueil.php"> Accueil </a></li>
-			<li><a href="#"> Société </a></li>
-			<li><a href="#"> Services </a></li>
-			<li><a href="#"> Contact </a></li>
+			<li><a href="societe.php"> Société </a></li>
+			<li><a href="services.php"> Services </a></li>
+			<li><a href="contact.php"> Contact </a></li>
 		</ul>
 		<div id="top">
 			<div id="leftImg">
