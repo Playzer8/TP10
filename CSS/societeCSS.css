@@ -140,6 +140,7 @@ html
 #presentation
 {
     margin-left: 190px;
+    margin-right: 190px;
 }
 
 #presentation > h3
@@ -157,6 +158,7 @@ html
 #valeur
 {
     margin-left: 190px;
+    margin-right: 190px;
 }
 
 #valeur > h3
