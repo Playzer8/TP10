@@ -22,6 +22,48 @@
 				<img src="../images/3rd.jpg"/>
 			</div>
 		</div>
+		<div id="mid">
+			<h1> La Societé </h1>
+			<p>
+			blablablablablablablablablablablablablablablablablablablablablablablablabla
+				blablablablablablablablablablablablablablablablablablablabla
+					blablablablablablablablablablablablablablabla
+							blablablablablablablablablabla
+									blablablablabla
+									
+									En Savoir +
+			</p>
+		</div>
+		<div id="bot">
+			<h1> Nos services </h1>
+			<h2> Marketting </h2>
+			<p> 
+			blablablablabla
+			bla blablablabla
+			blabla bla blabla
+			En Savoir +
+			</p>
+			<h2> Développement </h2>
+			<p> 
+			blablablablabla
+			bla blablablabla
+			blabla bla blabla
+			En Savoir +
+			</p>
+			<h2> Consulting </h2><p> 
+			blablablablabla
+			bla blablablabla
+			blabla bla blabla
+			En Savoir +
+			</p>
+			<h2> Infrastructure </h2>
+			<p> 
+			blablablablabla
+			bla blablablabla
+			blabla bla blabla
+			En Savoir +
+			</p>
+		</div>
 	</div>
 </body>
 </html>
